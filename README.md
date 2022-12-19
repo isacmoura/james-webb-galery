@@ -1,2 +1,2 @@
-# james-webb-galery
-James Webb galery app
+# James Webb Gallery
+James Webb gallery app
